@@ -1,3 +1,2 @@
 # Spring-Board-Coursework
-Course Work
-All the assgined courework is summarized here.
+All the assgined courework at SpringBoard Bootcamp is summarized here.
